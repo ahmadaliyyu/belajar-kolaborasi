@@ -1,4 +1,5 @@
 # belajar-kolaborasi
-belajar github
+belajar github<br>
+* belajar revert
 ## di DICODING PASTINYA!
 ### DICODING X BANK DBS
